@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danilow86/supertest.git"
+    "url": "git+https://github.com/mailtoromiforme/Mobnewtest1"
   },
-  "author": "Danilo",
+  "author": "Danio",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/danilow86/supertest/issues"
   },
-  "homepage": "https://github.com/danilow86/supertest#readme",
+  "homepage": "https://github.com/mailtoromiforme/Mobnewtest1/tree/master/supertest-master",
   "dependencies": {
     "jest": "^26.6.3",
     "supertest": "^6.1.3"

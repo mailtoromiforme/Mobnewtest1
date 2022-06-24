@@ -17,10 +17,9 @@ jobs:
       - run:
           name: "Say hello"
           command: "echo Hello, World!"
+      
       - run:
-          command: npm run build
-      - run:
-          command: npm run test
+          command: npm test
         
 
 # Invoke jobs via workflows
